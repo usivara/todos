@@ -15,6 +15,7 @@ public class TodoDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TodoDemoApplication.class, args);
+
 	}
 	
 	@EnableWebSecurity

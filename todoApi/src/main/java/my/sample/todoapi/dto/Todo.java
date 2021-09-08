@@ -1,17 +1,29 @@
 package my.sample.todoapi.dto;
 
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+
+@Entity
 public class Todo {
 
-    private int id;
+
+    private @Id @GeneratedValue Long id;
     private String title;
     private String desc;
 
-    public void setId(int id) {
+    public Todo() {
+
+    }
+    public Todo(String title, String desc){
+        this.title = title;
+        this.desc = desc;
+    }
+   // public long getId(){return this.id;}
+    public void setId(long id) {
         this.id = id;
     }
-    public int getId(){
-        return id;
-    }
+
 
     public void setTitle(String title) {
         this.title = title;
@@ -26,4 +38,5 @@ public class Todo {
     public String getDesc(){
         return desc;
     }
+
 }

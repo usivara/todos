@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c569fb69-3f15-487c-9990-6d6c88cc1e30" name="Changes" comment="" />
+    <list default="true" id="c569fb69-3f15-487c-9990-6d6c88cc1e30" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoApi/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/todoApi/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoApi/src/main/java/my/sample/todoapi/TodoDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/todoApi/src/main/java/my/sample/todoapi/TodoDemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoApi/src/main/java/my/sample/todoapi/controller/TodoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/todoApi/src/main/java/my/sample/todoapi/controller/TodoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoApi/src/main/java/my/sample/todoapi/dto/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/todoApi/src/main/java/my/sample/todoapi/dto/Todo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoApi/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/todoApi/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoApi/src/test/java/com/sample/todoapi/JwtDemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/todoApi/src/test/java/com/sample/todoapi/JwtDemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoApi/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/todoApi/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoApi/target/classes/my/sample/todoapi/TodoDemoApplication$WebSecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoApi/target/classes/my/sample/todoapi/TodoDemoApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoApi/target/classes/my/sample/todoapi/controller/TodoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoApi/target/classes/my/sample/todoapi/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoApi/target/classes/my/sample/todoapi/dto/Todo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoApi/target/classes/my/sample/todoapi/dto/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoApi/target/classes/my/sample/todoapi/security/JWTAuthorizationFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoApi/target/test-classes/com/sample/todoapi/JwtDemoApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoApi/todoApi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/todoApi/todoApi.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +36,21 @@
       <list>
         <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Structure" value="true" />
+      </map>
     </option>
   </component>
   <component name="ProjectId" id="1xocNAGCjmCPt38WOfO6B6dc9aC" />
@@ -35,7 +71,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -153,6 +189,7 @@
       <workItem from="1631037283119" duration="5000" />
       <workItem from="1631037330633" duration="898000" />
       <workItem from="1631066081114" duration="801000" />
+      <workItem from="1631096501807" duration="566000" />
     </task>
     <servers />
   </component>
